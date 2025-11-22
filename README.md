@@ -20,22 +20,17 @@
 
 ## **Programming Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp" />
 </p>
 
-## **Frontend Development**
+## **Agentic AI**
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=Langgraph,react,html,css,tailwind,bootstrap" />
 </p>
 
 ## **Backend Development**
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
-</p>
-
-## **Mobile App Development**
-<p>
-<img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
 ## **AI / Machine Learning**
