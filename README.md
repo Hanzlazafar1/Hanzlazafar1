@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hanzla Zafar</h1>
-<h3 align="center">A passionate Data Scientist & Agentic AI Developer</h3>
+<h3 align="center">A passionate AI Developer</h3>
 
 ---
 
-🌱 I’m currently learning **DevOps & In-Depth Software Engineering Concepts**
+🌱 I’m currently learning **DevOps and Advance Agentic AI concepts**
 
 👨‍💻 All of my projects are available at **https://hanzlazafar.vercel.app/en**
 
-💬 Ask me about **Full Stack Development, Agentic AI, LLMs, and RAG**
+💬 Ask me about **Generative AI - Agentic AI**
 
-📫 How to reach me **hanzlazafar07@gmail.com**
+📫 How to reach me **hanzlazafar10@gmail.com**
 
 📄 Know about my experiences **https://hanzlazafar.vercel.app/en**
 
-⚡ Fun fact **I am always excited to learn and build intelligent AI agents**
+⚡ Fun fact **I love building AI agents that automate anything 😄**
 
 ---
 
