@@ -25,17 +25,12 @@
 
 ## **Frontend Development**
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 </p>
 
 ## **Backend Development**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
-</p>
-
-## **Mobile App Development**
-<p>
-<img src="https://skillicons.dev/icons?i=flutter" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
 </p>
 
 ## **AI / Machine Learning**
@@ -67,12 +62,12 @@
 
 ## **Databases**
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=oracle,mysql,postgres" />
 </p>
 
 ## **Data Visualization**
 <p>
-<img src="https://skillicons.dev/icons?i=grafana" />
+<img src="https://skillicons.dev/icons?i=matplotlib,seaborn" />
 </p>
 
 ## **DevOps**
@@ -80,50 +75,28 @@
 <img src="https://skillicons.dev/icons?i=aws,docker,github,git,linux" />
 </p>
 
-## **Backend as a Service (BaaS)**
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,heroku" />
-</p>
-
-## **Frameworks**
-<p>
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
-</p>
-
 ## **Software**
 <p>
-<img src="https://skillicons.dev/icons?i=postman,figma,blender,matlab" />
+<img src="https://skillicons.dev/icons?i=postman,figma,matlab" />
 </p>
 
 ## **Static Site Generators**
 <p>
 <img src="https://skillicons.dev/icons?i=nextjs" />
-</p>
-
-## **Game Engines**
-<p>
-<img src="https://skillicons.dev/icons?i=unity" />
-</p>
-
-## **Automation**
-<p>
-<img src="https://skillicons.dev/icons?i=zapier" />
-</p>
+</p> 
 
 ## **Other Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=git,linux,arduino" />
+<img src="https://skillicons.dev/icons?i=git,linux" />
 </p>
 
 ---
 
 # 🌐 Social Profiles
 
-- **GitHub:** https://github.com/hanzlazafar  
-- **LinkedIn:** https://www.linkedin.com/in/hanzlazafar07/  
-- **Medium:** https://medium.com/@hanzlazafar07  
-- **Twitter/X:** (Add your username)  
-- **Instagram:** (Optional)  
+- **GitHub:** [https://github.com/hanzlazafar](https://github.com/Hanzlazafar1)  
+- **LinkedIn:** https://www.linkedin.com/in/hanzlazar07/ 
+- **Instagram:** https://www.instagram.com/maybe_hanzla/
 
 ---
 
@@ -131,4 +104,9 @@
 
 ### ✔ Display Visitor Count  
 ```md
-![](https://komarev.com/ghpvc/?username=hanzlazafar&color=blue)
+!![trophy](https://github-profile-trophy.vercel.app/?username=hanzlazafar1)
+![Hanzla's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzlazafar&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzlazafar&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hanzlazafar)
+
+
