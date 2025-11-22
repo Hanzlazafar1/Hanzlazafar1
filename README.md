@@ -14,6 +14,34 @@
 
 ⚡ Fun fact **I love building AI agents that automate anything 😄**
 
+## **Agentic AI & LLM Ecosystem**
+<p>
+  <!-- LangChain -->
+  <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/langchain-logo-light.svg" alt="LangChain" height="50" />
+
+  <!-- LangGraph -->
+  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/langgraph-logo.svg" alt="LangGraph" height="50" />
+
+  <!-- RAG -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Crystal_Clear_action_viewmag.svg/768px-Crystal_Clear_action_viewmag.svg.png" 
+       alt="RAG" height="50" title="Retrieval-Augmented Generation" />
+
+  <!-- OpenAI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" height="50" />
+
+  <!-- Hugging Face -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="50" />
+
+  <!-- Groq -->
+  <img src="https://raw.githubusercontent.com/groq/groq-python/main/docs/logo.png" alt="Groq" height="45" />
+
+  <!-- Gemini -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/21/20231208124547%21Google_Gemini_logo.svg/120px-Google_Gemini_logo.svg.png" 
+       alt="Google Gemini" height="50" />
+
+  <!-- LLaMA -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Meta_AI_%28text%29_Logo.svg" alt="LLaMA" height="40" />
+</p>
 
 
 # 🛠️ Skills
