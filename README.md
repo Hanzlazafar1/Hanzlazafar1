@@ -1,3 +1,12 @@
+<!-- Animated Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Hanzla+Zafar;AI+Developer+%7C+Agentic+AI+Engineer;Building+Smart+AI+Agents+🚀" />
+</p>
+
+<!-- Wave GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsZed0/itsZed0/master/wave.gif" width="60px" />
+</p>
 <h1 align="center">Hi 👋, I'm Hanzla Zafar</h1>
 <h3 align="center">A passionate AI Developer</h3>
 
