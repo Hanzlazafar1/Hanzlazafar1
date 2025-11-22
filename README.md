@@ -98,10 +98,10 @@
 
 ### ✔ Visitor Count
 ```md
-![](https://komarev.com/ghpvc/?username=hanzlazafar&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Hanzlazafar1&color=brightgreen)
 
-![Hanzla's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzlazafar&show_icons=true&theme=tokyonight)
+![Hanzla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanzlazafar1&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzlazafar&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzlazafar1&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hanzlazafar&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Hanzlazafar1&theme=tokyonight)
