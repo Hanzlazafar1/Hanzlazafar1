@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanzla Zafar</h1>
 <h3 align="center">A passionate AI Developer</h3>
 
-
-🌱 I’m currently learning **DevOps and Advance Agentic AI concepts**
+🌱 I’m currently learning **DevOps and Advanced Agentic AI concepts**
 
 👨‍💻 All of my projects are available at **https://hanzlazafar.vercel.app/en**
 
@@ -14,10 +13,10 @@
 
 ⚡ Fun fact **I love building AI agents that automate anything 😄**
 
- 
-
+---
 
 # 🛠️ Skills
+
 ## **Programming Languages**
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c" />
@@ -53,21 +52,16 @@
 
 ## **Deep Learning**
 <p>
-<b>✔ Neural Networks (CNN, RNN, LSTM, Transformers)</b><br>
-<b>✔ Computer Vision</b><br>
+<b>✔ CNN, RNN, LSTM, Transformers</b><br>
 <b>✔ NLP</b><br>
+<b>✔ Computer Vision</b><br>
 <b>✔ Embeddings & Vector Databases</b><br>
-<b>✔ Training & Fine-tuning Models</b>
+<b>✔ Model Training & Fine-tuning</b>
 </p>
 
 ## **Databases**
 <p>
 <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres" />
-</p>
-
-## **Data Visualization**
-<p>
-<img src="https://skillicons.dev/icons?i=matplotlib,seaborn" />
 </p>
 
 ## **DevOps**
@@ -94,21 +88,20 @@
 
 # 🌐 Social Profiles
 
-- **GitHub:** [https://github.com/hanzlazafar](https://github.com/Hanzlazafar1)  
-- **LinkedIn:** https://www.linkedin.com/in/hanzlazar07/ 
+- **GitHub:** https://github.com/hanzlazafar  
+- **LinkedIn:** https://www.linkedin.com/in/hanzlazar07/  
 - **Instagram:** https://www.instagram.com/maybe_hanzla/
 
 ---
 
 # 🏆 Add-ons
 
-### ✔ Display Visitor Count  
+### ✔ Visitor Count
 ```md
 ![](https://komarev.com/ghpvc/?username=hanzlazafar&color=brightgreen)
 
+![Hanzla's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzlazafar&show_icons=true&theme=tokyonight)
 
-![Hanzla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanzlazafar1r&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzlazafar1r&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Hanzlazafar1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzlazafar&layout=compact&theme=tokyonight)
 
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=hanzlazafar&theme=tokyonight)
