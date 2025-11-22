@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hanzla Zafar</h1>
 <h3 align="center">A passionate AI Developer</h3>
 
----
 
 🌱 I’m currently learning **DevOps and Advance Agentic AI concepts**
 
@@ -15,7 +14,6 @@
 
 ⚡ Fun fact **I love building AI agents that automate anything 😄**
 
----
 
 
 # 🛠️ Skills
