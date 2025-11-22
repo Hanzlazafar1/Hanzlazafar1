@@ -96,11 +96,7 @@
 
 # 🏆 Add-ons
 
-### ✔ Visitor Count
-```md
-![](https://komarev.com/ghpvc/?username=Hanzlazafar1)
-
-![Hanzla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanzlazafar1&show_icons=true&theme=tokyonight)
+ 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzlazafar1&layout=compact&theme=tokyonight)
 
