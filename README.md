@@ -104,7 +104,8 @@
 
 ### ✔ Display Visitor Count  
 ```md
-![](https://komarev.com/ghpvc/?username=hanzlazafar&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=hanzlazafar&color=brightgreen)
+
 
 ![Hanzla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanzlazafar1r&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzlazafar1r&layout=compact)
