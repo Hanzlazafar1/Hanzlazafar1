@@ -104,7 +104,7 @@
 
 ### ✔ Display Visitor Count  
 ```md
-!![trophy](https://github-profile-trophy.vercel.app/?username=Hanzlazafar1)
+![](https://komarev.com/ghpvc/?username=hanzlazafar&color=blue&style=flat)
 ![Hanzla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanzlazafar1r&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzlazafar1r&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Hanzlazafar1)
