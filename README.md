@@ -109,4 +109,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzlazafar1&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Hanzlazafar1&theme=tokyonight)
-![snake gif](https://github.com/Hanzlazafar1/Hanzlazafar1/blob/output/github-contribution-grid-snake.svg)
+ 
