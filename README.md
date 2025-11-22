@@ -1,69 +1,22 @@
 <h1 align="center">Hi 👋, I'm Hanzla Zafar</h1>
-<h3 align="center">A passionate Data Scientist & AI/Agentic AI Developer from Pakistan</h3>
+<h3 align="center">A passionate Data Scientist & Agentic AI Developer</h3>
 
 ---
 
-### 🔭 I’m currently working on
-- **EduMate AI – Personal Learning Coach**  
-  🔗 https://github.com/yourusername/edumate-ai
+🌱 I’m currently learning **DevOps & In-Depth Software Engineering Concepts**
 
-- **Horus – AI Powered CMO Agent**  
-  🔗 https://github.com/yourusername/horus-cmo
+👨‍💻 All of my projects are available at **https://hanzlazafar.vercel.app/en**
 
-- **Dora AI Assistant (LangChain + Groq + Webcam)**  
-  🔗 https://github.com/yourusername/dora-ai
+💬 Ask me about **Full Stack Development, Agentic AI, LLMs, and RAG**
 
----
+📫 How to reach me **hanzlazafar07@gmail.com**
 
-### 👯 I’m looking to collaborate on  
-- **Agentic AI Projects**  
-  🔗 https://github.com/yourusername  
+📄 Know about my experiences **https://hanzlazafar.vercel.app/en**
 
-- **Advanced RAG & LLM Apps**  
-  🔗 https://github.com/yourusername
+⚡ Fun fact **I am always excited to learn and build intelligent AI agents**
 
 ---
 
-### 🤝 I’m looking for help with
-- **Building an Autonomous Hiring Agent (FYP)**  
-  🔗 https://github.com/yourusername/hiring-agent
-
----
-
-### 🌱 I’m currently learning  
-- **LangGraph, Advanced LangChain, Next.js, Agentic AI, Cloud Deployments, FastAPI**
-
----
-
-### 💬 Ask me about  
-**Generative AI, LangChain, RAG, Python, Machine Learning, Computer Vision, Next.js**
-
----
-
-### 📫 How to reach me  
-**📩 Email:** hanzlazafar07@gmail.com
-
----
-
-### 👨‍💻 All of my projects are available at  
-🔗 **Portfolio:** https://hanzlazafar.vercel.app/en
-
----
-
-### 📝 I regularly write articles on  
-🔗 **Medium:** https://medium.com/@hanzlazafar07
-
----
-
-### 📄 Know about my experiences  
-🔗 **Resume:** https://your-resume-link.com
-
----
-
-### ⚡ Fun fact  
-I love building AI agents that automate anything 😄
-
----
 
 # 🛠️ Skills
 
