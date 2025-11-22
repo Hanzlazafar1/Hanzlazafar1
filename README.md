@@ -17,15 +17,14 @@
 
 
 # 🛠️ Skills
-
 ## **Programming Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c" />
 </p>
 
-## **Agentic AI**
+## **Frontend Development**
 <p>
-<img src="https://skillicons.dev/icons?i=Langgraph,react,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,bootstrap" />
 </p>
 
 ## **Backend Development**
@@ -33,11 +32,36 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 </p>
 
+## **Mobile App Development**
+<p>
+<img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
 ## **AI / Machine Learning**
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 <br>
 <img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
+
+## **Agentic AI & Generative AI**
+<p>
+<b>✔ Agentic AI Systems</b><br>
+<b>✔ LangChain & LangGraph</b><br>
+<b>✔ Retrieval-Augmented Generation (RAG)</b><br>
+<b>✔ LLM Apps (OpenAI, Groq, Gemini, Claude, LLaMA)</b><br>
+<b>✔ Autonomous AI Agents</b><br>
+<b>✔ Prompt Engineering</b><br>
+<b>✔ AI Workflow Automation</b>
+</p>
+
+## **Deep Learning**
+<p>
+<b>✔ Neural Networks (CNN, RNN, LSTM, Transformers)</b><br>
+<b>✔ Computer Vision</b><br>
+<b>✔ NLP</b><br>
+<b>✔ Embeddings & Vector Databases</b><br>
+<b>✔ Training & Fine-tuning Models</b>
 </p>
 
 ## **Databases**
