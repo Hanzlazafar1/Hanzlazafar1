@@ -17,7 +17,7 @@
 
 📫 How to reach me **hanzlazafar10@gmail.com**
 
-📄 Know about my experiences **https://hanzlazafar.vercel.app/en**
+📄 Know about my experiences **https://hanzlazafar-eta.vercel.app/**
 
 ⚡ Fun fact **I love building AI agents that automate anything 😄**
 
