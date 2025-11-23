@@ -11,7 +11,7 @@
 
 🌱 I’m currently learning **DevOps and Advanced Agentic AI concepts**
 
-👨‍💻 All of my projects are available at **https://hanzlazafar.vercel.app/en**
+👨‍💻 All of my projects are available at **https://hanzlazafar-eta.vercel.app/**
 
 💬 Ask me about **Generative AI - Agentic AI**
 
