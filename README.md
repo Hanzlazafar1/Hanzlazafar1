@@ -27,7 +27,7 @@
 
 ## **Programming Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
 </p>
 
 ## **Frontend Development**
@@ -80,16 +80,6 @@
 ## **Software**
 <p>
 <img src="https://skillicons.dev/icons?i=postman,figma,matlab" />
-</p>
-
-## **Static Site Generators**
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs" />
-</p> 
-
-## **Other Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=git,linux" />
 </p>
 
 ---
