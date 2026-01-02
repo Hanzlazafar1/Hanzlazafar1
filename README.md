@@ -86,7 +86,7 @@
 
 # 🌐 Social Profiles
 
-- **GitHub:** https://github.com/hanzlazafar  
+ 
 - **LinkedIn:** https://www.linkedin.com/in/hanzlazar07/  
 - **Instagram:** https://www.instagram.com/maybe_hanzla/
 
