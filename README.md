@@ -31,7 +31,7 @@ class HanzlaZafar:
     def __init__(self):
         self.name        = "Hanzla Zafar"
         self.role        = "AI Engineer | Full Stack Developer | DevOps Enthusiast"
-        self.location    = "Multan, Pakistan 🇵🇰"
+        self.location    = "Islamabad, Pakistan 🇵🇰"
         self.education   = "BSc. Software Engineering @ UET Taxila (CGPA: 3.52) — Jun 2026"
         self.focus       = ["Agentic AI", "RAG Systems", "LLM Fine-tuning", "MLOps"]
         self.learning    = ["Advanced Agentic AI", "DevOps & Kubernetes", "MLflow"]
