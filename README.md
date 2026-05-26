@@ -152,16 +152,14 @@ Real-time computer vision agent that identifies and describes objects from a liv
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hanzlazafar1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzlazafar1&layout=compact&theme=tokyonight&border_radius=10"/>
-
+  <a href="https://github.com/Hanzlazafar1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hanzlazafar1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=false" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzlazafar1&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" />
+  </a>
 </div>
-
+<br/>
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Hanzlazafar1&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
-
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Hanzlazafar1&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
