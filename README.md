@@ -151,16 +151,6 @@ Real-time computer vision agent that identifies and describes objects from a liv
 
 ## 📊 GitHub Stats
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Hanzlazafar1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&cache_seconds=1800" alt="Hanzla's GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzlazafar1&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 <img src="https://streak-stats.demolab.com/?user=Hanzlazafar1&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
 
