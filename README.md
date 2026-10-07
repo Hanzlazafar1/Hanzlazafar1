@@ -1,30 +1,30 @@
 <div align="center">
 
 <!-- ═══════════ HERO BANNER ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,50:FF2E97,100:F59E0B&height=260&section=header&text=Hanzla%20Zafar&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20•%20Agentic%20AI%20Specialist%20•%20Full%20Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1D4ED8,50:0EA5E9,100:60A5FA&height=260&section=header&text=Hanzla%20Zafar&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20•%20Agentic%20AI%20Specialist%20•%20Full%20Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
 
 <!-- ═══════════ TYPING ANIMATION ═══════════ -->
 <a href="https://hanzlazafar-eta.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=FF2E97&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=Building+Production-Grade+AI+Systems;Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+LLM+Fine-tuning;LangGraph+%E2%80%A2+FastAPI+%E2%80%A2+Docker+%E2%80%A2+AWS;I+automate+my+own+workflows+with+AI+agents;Turning+Ideas+into+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=Building+Production-Grade+AI+Systems;Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+LLM+Fine-tuning;LangGraph+%E2%80%A2+FastAPI+%E2%80%A2+Docker+%E2%80%A2+AWS;I+automate+my+own+workflows+with+AI+agents;Turning+Ideas+into+Intelligent+Solutions" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- ═══════════ SOCIAL BADGES ═══════════ -->
-<a href="https://www.linkedin.com/in/hanzlazar07/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1033"/></a>
-<a href="https://hanzlazafar-eta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF2E97?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1033"/></a>
-<a href="mailto:hanzlazafar10@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-F59E0B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1033"/></a>
-<a href="https://www.instagram.com/maybe_hanzla/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1033"/></a>
+<a href="https://www.linkedin.com/in/hanzlazar07/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1a33"/></a>
+<a href="https://hanzlazafar-eta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b1a33"/></a>
+<a href="mailto:hanzlazafar10@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-60A5FA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1a33"/></a>
+<a href="https://www.instagram.com/maybe_hanzla/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b1a33"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Hanzlazafar1&color=FF2E97&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a1033"/>
-<img src="https://img.shields.io/github/followers/Hanzlazafar1?style=for-the-badge&color=7C3AED&labelColor=1a1033&logo=github"/>
-<img src="https://img.shields.io/github/stars/Hanzlazafar1?style=for-the-badge&color=F59E0B&labelColor=1a1033&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=Hanzlazafar1&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0b1a33"/>
+<img src="https://img.shields.io/github/followers/Hanzlazafar1?style=for-the-badge&color=1D4ED8&labelColor=0b1a33&logo=github"/>
+<img src="https://img.shields.io/github/stars/Hanzlazafar1?style=for-the-badge&color=60A5FA&labelColor=0b1a33&logo=github"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:FF2E97,100:F59E0B&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,50:0EA5E9,100:60A5FA&height=3&section=header" width="100%"/>
 
 <!-- ═══════════ ABOUT ═══════════ -->
 <h2 align="center">⚡ ABOUT ME ⚡</h2>
@@ -56,11 +56,11 @@ fun_fact:   "I automate my own workflows with AI agents 🤖"
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=600&color=F59E0B&center=true&vCenter=true&width=330&height=120&lines=>+initializing+agent...;>+loading+RAG+pipeline...;>+connecting+to+LLM...;>+deploying+to+AWS...;>+status:+READY+%E2%9C%85" alt="Terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=600&color=60A5FA&center=true&vCenter=true&width=330&height=120&lines=>+initializing+agent...;>+loading+RAG+pipeline...;>+connecting+to+LLM...;>+deploying+to+AWS...;>+status:+READY+%E2%9C%85" alt="Terminal" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-FF2E97?style=for-the-badge&labelColor=1a1033"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-0EA5E9?style=for-the-badge&labelColor=0b1a33"/>
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ fun_fact:   "I automate my own workflows with AI agents 🤖"
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:FF2E97,100:7C3AED&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,50:0EA5E9,100:1D4ED8&height=3&section=header" width="100%"/>
 
 <!-- ═══════════ WHAT I DO ═══════════ -->
 <h2 align="center">🚀 WHAT I DO 🚀</h2>
@@ -108,7 +108,7 @@ fun_fact:   "I automate my own workflows with AI agents 🤖"
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:FF2E97,100:F59E0B&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,50:0EA5E9,100:60A5FA&height=3&section=header" width="100%"/>
 
 <!-- ═══════════ TECH STACK ═══════════ -->
 <h2 align="center">🛠️ TECH ARSENAL 🛠️</h2>
@@ -163,7 +163,7 @@ fun_fact:   "I automate my own workflows with AI agents 🤖"
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:FF2E97,100:7C3AED&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,50:0EA5E9,100:1D4ED8&height=3&section=header" width="100%"/>
 
 <!-- ═══════════ PROJECTS ═══════════ -->
 <h2 align="center">🏆 FEATURED PROJECTS 🏆</h2>
@@ -179,12 +179,12 @@ fun_fact:   "I automate my own workflows with AI agents 🤖"
 
 AI-powered multi-agent system for code generation, debugging, explanation and SRS generation, with real-time streaming responses and contextual reasoning.
 
-<img src="https://img.shields.io/badge/Groq_LLaMA_3-FF2E97?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/React-FF2E97?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/AWS_EC2-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Groq_LLaMA_3-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-1D4ED8?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-60A5FA?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-1D4ED8?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS_EC2-60A5FA?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
@@ -194,10 +194,10 @@ AI-powered multi-agent system for code generation, debugging, explanation and SR
 
 End-to-end NLP platform that analyzes political speeches with summarization, promise tracking, a temporal comparison engine and an interactive analytics dashboard.
 
-<img src="https://img.shields.io/badge/LLM_Pipeline-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Transcription-FF2E97?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sentiment_Analysis-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Topic_Modeling-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM_Pipeline-1D4ED8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transcription-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sentiment_Analysis-60A5FA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Topic_Modeling-1D4ED8?style=flat-square"/>
 
 </td>
 </tr>
@@ -209,10 +209,10 @@ End-to-end NLP platform that analyzes political speeches with summarization, pro
 
 Fetches and summarizes Python library docs, giving precise answers backed by source references.
 
-<img src="https://img.shields.io/badge/RAG-FF2E97?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/LlamaIndex-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Citations-FF2E97?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-1D4ED8?style=flat-square"/>
+<img src="https://img.shields.io/badge/LlamaIndex-60A5FA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Citations-0EA5E9?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
@@ -222,9 +222,9 @@ Fetches and summarizes Python library docs, giving precise answers backed by sou
 
 Computer vision agent that identifies and describes objects from a live webcam feed using AI.
 
-<img src="https://img.shields.io/badge/OpenCV-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer_Vision-FF2E97?style=flat-square"/>
-<img src="https://img.shields.io/badge/Live_Webcam-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-1D4ED8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Vision-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Live_Webcam-60A5FA?style=flat-square"/>
 
 </td>
 </tr>
@@ -232,36 +232,36 @@ Computer vision agent that identifies and describes objects from a live webcam f
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:FF2E97,100:F59E0B&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,50:0EA5E9,100:60A5FA&height=3&section=header" width="100%"/>
 
 <!-- ═══════════ GITHUB STATS ═══════════ -->
 <h2 align="center">📊 GITHUB ANALYTICS 📊</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hanzlazafar1&show_icons=true&theme=synthwave&hide_border=true&border_radius=12&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzlazafar1&layout=compact&theme=synthwave&hide_border=true&border_radius=12" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hanzlazafar1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzlazafar1&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Hanzlazafar1&theme=synthwave&hide_border=true&border_radius=12" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Hanzlazafar1&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hanzlazafar1&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hanzlazafar1&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:FF2E97,100:7C3AED&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,50:0EA5E9,100:1D4ED8&height=3&section=header" width="100%"/>
 
 <!-- ═══════════ CURRENTLY ═══════════ -->
 <h2 align="center">🌱 CURRENTLY LEVELING UP 🌱</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Advanced_Agentic_AI-In_Progress-FF2E97?style=for-the-badge&labelColor=1a1033"/>
-<img src="https://img.shields.io/badge/DevOps_%26_Kubernetes-In_Progress-7C3AED?style=for-the-badge&labelColor=1a1033"/>
-<img src="https://img.shields.io/badge/MLflow-In_Progress-F59E0B?style=for-the-badge&labelColor=1a1033"/>
+<img src="https://img.shields.io/badge/Advanced_Agentic_AI-In_Progress-0EA5E9?style=for-the-badge&labelColor=0b1a33"/>
+<img src="https://img.shields.io/badge/DevOps_%26_Kubernetes-In_Progress-1D4ED8?style=for-the-badge&labelColor=0b1a33"/>
+<img src="https://img.shields.io/badge/MLflow-In_Progress-60A5FA?style=for-the-badge&labelColor=0b1a33"/>
 
 </div>
 
@@ -277,14 +277,14 @@ Computer vision agent that identifies and describes objects from a live webcam f
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:FF2E97,100:F59E0B&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,50:0EA5E9,100:60A5FA&height=3&section=header" width="100%"/>
 
 <!-- ═══════════ CONTRIBUTION GRAPH ═══════════ -->
 <h2 align="center">📈 CONTRIBUTION GRAPH 📈</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hanzlazafar1&theme=redical&bg_color=0d0221&color=FF2E97&line=7C3AED&point=F59E0B&area=true&area_color=7C3AED&hide_border=true&radius=12" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hanzlazafar1&theme=tokyo-night&bg_color=0a1628&color=0EA5E9&line=1D4ED8&point=60A5FA&area=true&area_color=1D4ED8&hide_border=true&radius=12" width="100%"/>
 
 </div>
 
@@ -293,14 +293,14 @@ Computer vision agent that identifies and describes objects from a live webcam f
 
 <h2>💬 Let's Build Something Intelligent Together</h2>
 
-<a href="https://www.linkedin.com/in/hanzlazar07/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1033"/></a>
-<a href="https://hanzlazafar-eta.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-FF2E97?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1033"/></a>
-<a href="mailto:hanzlazafar10@gmail.com"><img src="https://img.shields.io/badge/Send_Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1033"/></a>
+<a href="https://www.linkedin.com/in/hanzlazar07/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1a33"/></a>
+<a href="https://hanzlazafar-eta.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b1a33"/></a>
+<a href="mailto:hanzlazafar10@gmail.com"><img src="https://img.shields.io/badge/Send_Email-60A5FA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1a33"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1500&color=F59E0B&center=true&vCenter=true&width=520&lines=Thanks+for+dropping+by!;Star+a+repo+if+you+liked+something+%E2%AD%90;Let's+build+the+future+with+AI" alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1500&color=60A5FA&center=true&vCenter=true&width=520&lines=Thanks+for+dropping+by!;Star+a+repo+if+you+liked+something+%E2%AD%90;Let's+build+the+future+with+AI" alt="Footer typing" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:FF2E97,100:F59E0B&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:0EA5E9,100:60A5FA&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
