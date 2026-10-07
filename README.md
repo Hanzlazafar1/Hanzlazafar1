@@ -26,97 +26,44 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,50:0EA5E9,100:60A5FA&height=3&section=header" width="100%"/>
 
-<!-- ═══════════ ABOUT ═══════════ -->
-<h2 align="center">⚡ ABOUT ME ⚡</h2>
+## 🧠 About Me
 
-<div align="center">
+```python
+class HanzlaZafar:
+    def __init__(self):
+        self.name        = "Hanzla Zafar"
+        self.role        = "AI Engineer | Full Stack Developer | DevOps Enthusiast"
+        self.location    = "Islamabad, Pakistan 🇵🇰"
+        self.education   = "BSc. Software Engineering @ UET Taxila (CGPA: 3.52) — Jun 2026"
+        self.focus       = ["Agentic AI", "RAG Systems", "LLM Fine-tuning", "MLOps"]
+        self.learning    = ["Advanced Agentic AI", "DevOps & Kubernetes", "MLflow"]
+        self.fun_fact    = "I automate my own workflows with AI agents 🤖"
 
-<table>
-<tr>
-<td width="55%" valign="top">
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something intelligent together 🚀")
 
-```yaml
-name:       Hanzla Zafar
-role:       AI Engineer | Full Stack Dev | DevOps Enthusiast
-location:   Islamabad, Pakistan 🇵🇰
-education:  BSc Software Engineering @ UET Taxila
-cgpa:       3.52   # graduating Jun 2026
-focus:
-  - Agentic AI
-  - RAG Systems
-  - LLM Fine-tuning
-  - MLOps
-learning:
-  - Advanced Agentic AI
-  - DevOps & Kubernetes
-  - MLflow
-fun_fact:   "I automate my own workflows with AI agents 🤖"
+me = HanzlaZafar()
+me.say_hi()
 ```
 
-</td>
-<td width="45%" align="center" valign="middle">
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=600&color=60A5FA&center=true&vCenter=true&width=330&height=120&lines=>+initializing+agent...;>+loading+RAG+pipeline...;>+connecting+to+LLM...;>+deploying+to+AWS...;>+status:+READY+%E2%9C%85" alt="Terminal" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-0EA5E9?style=for-the-badge&labelColor=0b1a33"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,50:0EA5E9,100:1D4ED8&height=3&section=header" width="100%"/>
-
-<!-- ═══════════ WHAT I DO ═══════════ -->
-<h2 align="center">🚀 WHAT I DO 🚀</h2>
+## 🚀 What I Do
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>🤖 Agentic AI</h3>
-<sub>Multi-agent workflows with <b>LangGraph</b> that plan, reason & act autonomously</sub>
-</td>
-<td align="center" width="33%">
-<h3>🔍 RAG Systems</h3>
-<sub>Document-aware chatbots & knowledge bases with accurate, cited answers</sub>
-</td>
-<td align="center" width="33%">
-<h3>🧬 LLM Fine-tuning</h3>
-<sub>HuggingFace Transformers adapted for real-world NLP tasks</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<h3>☁️ Cloud & DevOps</h3>
-<sub>AWS EC2/S3, Docker & CI/CD pipelines for reliable deployments</sub>
-</td>
-<td align="center">
-<h3>🌐 Full Stack AI</h3>
-<sub>FastAPI + React, end-to-end AI apps from model to UI</sub>
-</td>
-<td align="center">
-<h3>📊 Deep Learning</h3>
-<sub>CNN, RNN, Transformers & Computer Vision</sub>
-</td>
-</tr>
-</table>
+| 🤖 Agentic AI | 🔍 RAG Systems | 🧬 LLM Fine-tuning |
+|:---:|:---:|:---:|
+| Multi-agent workflows with LangGraph | Document-aware chatbots & knowledge bases | HuggingFace Transformers for NLP tasks |
+| **☁️ Cloud & DevOps** | **🌐 Full Stack AI** | **📊 Deep Learning** |
+| AWS EC2/S3, Docker, CI/CD Pipelines | FastAPI + React end-to-end AI apps | CNN, RNN, Transformers, Computer Vision |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,50:0EA5E9,100:60A5FA&height=3&section=header" width="100%"/>
-
-<!-- ═══════════ TECH STACK ═══════════ -->
-<h2 align="center">🛠️ TECH ARSENAL 🛠️</h2>
-
-<div align="center">
-
-**🧠 Generative & Agentic AI**
-
+---
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack & Skills
+🧠 Generative AI & Agentic AI
+<p align="center">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -124,11 +71,11 @@ fun_fact:   "I automate my own workflows with AI agents 🤖"
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
-
-**📊 ML / Deep Learning**
-
+</p>
+🤖 ML / Deep Learning
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -137,170 +84,104 @@ fun_fact:   "I automate my own workflows with AI agents 🤖"
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-**⚙️ Backend & Frontend**
-
+</p>
+🌐 Backend & APIs
+<p align="center">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+🎨 Frontend
+<p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-**☁️ Cloud, DevOps & Databases**
-
+</p>
+☁️ Cloud, DevOps & Infra
+<p align="center">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+🗄️ Databases
+<p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,50:0EA5E9,100:1D4ED8&height=3&section=header" width="100%"/>
-
-<!-- ═══════════ PROJECTS ═══════════ -->
-<h2 align="center">🏆 FEATURED PROJECTS 🏆</h2>
+## 🏆 Featured Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🤖 [CodeGenius AI](https://codegenius-ai.vercel.app) — Multi-Agent Software Engineering Assistant
+> *Groq LLaMA 3 · LangChain · FastAPI · React · Docker · AWS EC2*
 
-### 🤖 [CodeGenius AI](https://codegenius-ai.vercel.app)
-**Multi-Agent Software Engineering Assistant**
+AI-powered multi-agent system for code generation, debugging, explanation, and SRS generation with real-time streaming responses and contextual reasoning.
 
-AI-powered multi-agent system for code generation, debugging, explanation and SRS generation, with real-time streaming responses and contextual reasoning.
+---
 
-<img src="https://img.shields.io/badge/Groq_LLaMA_3-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-1D4ED8?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-60A5FA?style=flat-square"/>
-<img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker-1D4ED8?style=flat-square"/>
-<img src="https://img.shields.io/badge/AWS_EC2-60A5FA?style=flat-square"/>
+### 🎙️ Decoding Leadership — LLM-Based Political Speech Analysis *(Final Year Project)*
+> *LLM Pipeline · Audio Transcription · Sentiment Analysis · Topic Modeling*
 
-</td>
-<td width="50%" valign="top">
+End-to-end NLP platform analyzing political speeches with summarization, promise-tracking, temporal comparison engine, and interactive analytics dashboard.
 
-### 🎙️ Decoding Leadership
-**LLM-Based Political Speech Analysis** · *Final Year Project*
-
-End-to-end NLP platform that analyzes political speeches with summarization, promise tracking, a temporal comparison engine and an interactive analytics dashboard.
-
-<img src="https://img.shields.io/badge/LLM_Pipeline-1D4ED8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Transcription-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sentiment_Analysis-60A5FA?style=flat-square"/>
-<img src="https://img.shields.io/badge/Topic_Modeling-1D4ED8?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 📚 MCP-Server Documentation Retrieval
-**RAG-powered docs assistant**
+> *RAG · LangChain · LlamaIndex · Source Citations*
 
-Fetches and summarizes Python library docs, giving precise answers backed by source references.
+AI documentation assistant that fetches and summarizes Python library docs with precise answers and source references.
 
-<img src="https://img.shields.io/badge/RAG-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-1D4ED8?style=flat-square"/>
-<img src="https://img.shields.io/badge/LlamaIndex-60A5FA?style=flat-square"/>
-<img src="https://img.shields.io/badge/Citations-0EA5E9?style=flat-square"/>
+---
 
-</td>
-<td width="50%" valign="top">
+### 👁️ Dora AI — Real-Time Vision Agent
+> *OpenCV · Computer Vision · Live Webcam AI*
 
-### 👁️ Dora AI
-**Real-Time Vision Agent**
-
-Computer vision agent that identifies and describes objects from a live webcam feed using AI.
-
-<img src="https://img.shields.io/badge/OpenCV-1D4ED8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer_Vision-0EA5E9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Live_Webcam-60A5FA?style=flat-square"/>
-
-</td>
-</tr>
-</table>
+Real-time computer vision agent that identifies and describes objects from a live webcam feed using AI.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,50:0EA5E9,100:60A5FA&height=3&section=header" width="100%"/>
+---
 
-<!-- ═══════════ GITHUB STATS ═══════════ -->
-<h2 align="center">📊 GITHUB ANALYTICS 📊</h2>
+## 📊 GitHub Stats
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Hanzlazafar1&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</div>
+
+## 🏅 Certifications
+
+- 🎓 **Large Language Models (LLMs) Concepts** — DataCamp *(Sep 2025)*
+- 🎓 **Generative AI Concepts** — DataCamp *(Oct 2025)*
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hanzlazafar1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzlazafar1&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Hanzlazafar1&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hanzlazafar1&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" />
+[![Hanzla's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hanzlazafar1&theme=tokyo-night&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,50:0EA5E9,100:1D4ED8&height=3&section=header" width="100%"/>
-
-<!-- ═══════════ CURRENTLY ═══════════ -->
-<h2 align="center">🌱 CURRENTLY LEVELING UP 🌱</h2>
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Advanced_Agentic_AI-In_Progress-0EA5E9?style=for-the-badge&labelColor=0b1a33"/>
-<img src="https://img.shields.io/badge/DevOps_%26_Kubernetes-In_Progress-1D4ED8?style=for-the-badge&labelColor=0b1a33"/>
-<img src="https://img.shields.io/badge/MLflow-In_Progress-60A5FA?style=for-the-badge&labelColor=0b1a33"/>
+### 💬 Let's Connect & Build Something Intelligent!
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanzlazar07/)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hanzlazafar-eta.vercel.app/)
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanzlazafar10@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer"/>
 
 </div>
 
-<!-- ═══════════ CERTIFICATIONS ═══════════ -->
-<h2 align="center">🏅 CERTIFICATIONS 🏅</h2>
-
-<div align="center">
-
-| Certification | Issuer | Date |
-|:---|:---:|:---:|
-| 🎓 **Large Language Models (LLMs) Concepts** | DataCamp | Sep 2025 |
-| 🎓 **Generative AI Concepts** | DataCamp | Oct 2025 |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,50:0EA5E9,100:60A5FA&height=3&section=header" width="100%"/>
-
-<!-- ═══════════ CONTRIBUTION GRAPH ═══════════ -->
-<h2 align="center">📈 CONTRIBUTION GRAPH 📈</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hanzlazafar1&theme=tokyo-night&bg_color=0a1628&color=0EA5E9&line=1D4ED8&point=60A5FA&area=true&area_color=1D4ED8&hide_border=true&radius=12" width="100%"/>
-
-</div>
-
-<!-- ═══════════ FOOTER ═══════════ -->
-<div align="center">
-
-<h2>💬 Let's Build Something Intelligent Together</h2>
-
-<a href="https://www.linkedin.com/in/hanzlazar07/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1a33"/></a>
-<a href="https://hanzlazafar-eta.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b1a33"/></a>
-<a href="mailto:hanzlazafar10@gmail.com"><img src="https://img.shields.io/badge/Send_Email-60A5FA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1a33"/></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1500&color=60A5FA&center=true&vCenter=true&width=520&lines=Thanks+for+dropping+by!;Star+a+repo+if+you+liked+something+%E2%AD%90;Let's+build+the+future+with+AI" alt="Footer typing" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:0EA5E9,100:60A5FA&height=140&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
