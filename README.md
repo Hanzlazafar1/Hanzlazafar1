@@ -1,184 +1,253 @@
+<!-- ============================================================
+  HOW TO USE:
+  1. Create a PUBLIC repo named exactly the same as your GitHub username
+  2. Add this file as README.md
+  3. Replace every YOUR_GITHUB_USERNAME with your real username
+  4. Replace LinkedIn / Portfolio / repo links with your real ones
+============================================================ -->
+
+<!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<!-- Animated Name Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hanzla%20Zafar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20Specialist%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=240&section=header&text=Hanzla%20Zafar&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20DevOps%20Enthusiast&descSize=20&descAlignY=58&descAlign=50" width="100%" alt="header"/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Production-Grade+AI+Systems+%F0%9F%A4%96;Agentic+AI+%7C+RAG+%7C+LLM+Fine-tuning;AWS+%7C+Docker+%7C+FastAPI+%7C+LangChain;Turning+Ideas+into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanzlazar07/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hanzlazafar-eta.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanzlazafar10@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maybe_hanzla/)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&multiline=false&width=700&lines=Hi+there%2C+I'm+Hanzla+%F0%9F%91%8B;Building+Agentic+AI+%26+RAG+Systems+%F0%9F%A4%96;LLMs+%7C+FastAPI+%7C+AWS+%7C+Docker+%F0%9F%9A%80;Turning+ideas+into+scalable+AI+products+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=Hanzlazafar1&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/Hanzlazafar1?style=for-the-badge&color=00d9ff&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=24c6dc&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29)
+
+<br/>
+
+<a href="mailto:hanzlazafar10@gmail.com"><img src="https://img.shields.io/badge/Email-hanzlazafar10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-24c6dc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://wa.me/923323127063"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 </div>
 
+<br/>
+
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="62%" valign="top">
 
 ```python
 class HanzlaZafar:
     def __init__(self):
-        self.name        = "Hanzla Zafar"
-        self.role        = "AI Engineer | Full Stack Developer | DevOps Enthusiast"
-        self.location    = "Islamabad, Pakistan 🇵🇰"
-        self.education   = "BSc. Software Engineering @ UET Taxila (CGPA: 3.52) — Jun 2026"
-        self.focus       = ["Agentic AI", "RAG Systems", "LLM Fine-tuning", "MLOps"]
-        self.learning    = ["Advanced Agentic AI", "DevOps & Kubernetes", "MLflow"]
-        self.fun_fact    = "I automate my own workflows with AI agents 🤖"
+        self.role      = "AI Engineer | Software Engineer"
+        self.location  = "Islamabad, Pakistan 🇵🇰"
+        self.education = "BSc Software Engineering, UET Taxila (CGPA 3.57/4.00)"
+        self.focus     = ["Generative AI", "Agentic AI", "LLMs", "RAG"]
+        self.stack     = ["Python", "FastAPI", "LangChain", "AWS", "Docker"]
+        self.status    = "Open to AI/ML Engineer opportunities 🚀"
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something intelligent together 🚀")
-
-me = HanzlaZafar()
-me.say_hi()
+    def mission(self):
+        return "Build scalable AI products that solve real problems."
 ```
 
+</td>
+<td width="38%" valign="top">
+
+- 🎓 Software Engineering graduate, **UET Taxila**
+- 🤖 Building **RAG systems**, **multi-agent apps** & **LLM pipelines**
+- ☁️ Deploying AI on **AWS (EC2, S3)** with **Docker** & **CI/CD**
+- 💼 Freelance AI Engineer on **Fiverr** since 2023
+- 🎯 Looking for **AI/ML Engineer** roles
+- 📫 Reach me: **hanzlazafar10@gmail.com**
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🚀 What I Do
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| 🤖 Agentic AI | 🔍 RAG Systems | 🧬 LLM Fine-tuning |
-|:---:|:---:|:---:|
-| Multi-agent workflows with LangGraph | Document-aware chatbots & knowledge bases | HuggingFace Transformers for NLP tasks |
-| **☁️ Cloud & DevOps** | **🌐 Full Stack AI** | **📊 Deep Learning** |
-| AWS EC2/S3, Docker, CI/CD Pipelines | FastAPI + React end-to-end AI apps | CNN, RNN, Transformers, Computer Vision |
+### 🧠 Languages
+<img src="https://skillicons.dev/icons?i=py,cpp,mysql&theme=dark" alt="languages"/>
+
+### 🤖 Machine Learning & Deep Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras,pandas,numpy&theme=dark" alt="ml"/>
+
+### ✨ Generative & Agentic AI
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-302b63?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/RAG-24c6dc?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+### ⚙️ Backend & Frontend
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react&theme=dark" alt="backend"/>
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,githubactions&theme=dark" alt="devops"/>
+
+### 🗄️ Databases
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### 🏗️ System Design
+`Scalable Architecture` • `Microservices` • `Distributed Systems` • `API Design` • `Load Balancing` • `Caching`
 
 </div>
 
 ---
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack & Skills
-🧠 Generative AI & Agentic AI
-<p align="center">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
-</p>
-🤖 ML / Deep Learning
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-🌐 Backend & APIs
-<p align="center">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
-🎨 Frontend
-<p align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-☁️ Cloud, DevOps & Infra
-<p align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-🗄️ Databases
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 [CodeGenius AI](https://codegenius-ai.vercel.app) — Multi-Agent Software Engineering Assistant
-> *Groq LLaMA 3 · LangChain · FastAPI · React · Docker · AWS EC2*
+### 🎙️ Decoding Leadership
+**LLM-Based Analysis of Political Speeches**
+*Final Year Project • UET Taxila • Sep 2025 – Jun 2026*
 
-AI-powered multi-agent system for code generation, debugging, explanation, and SRS generation with real-time streaming responses and contextual reasoning.
+End-to-end LLM pipeline covering audio transcription, sentiment analysis, topic modeling and promise-vs-achievement tracking, with a temporal comparison engine and an interactive analytics dashboard.
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs-302b63?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-24c6dc?style=flat-square)
+![Dashboard](https://img.shields.io/badge/Analytics%20Dashboard-0f0c29?style=flat-square)
 
-### 🎙️ Decoding Leadership — LLM-Based Political Speech Analysis *(Final Year Project)*
-> *LLM Pipeline · Audio Transcription · Sentiment Analysis · Topic Modeling*
+[🔗 View Repository](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
 
-End-to-end NLP platform analyzing political speeches with summarization, promise-tracking, temporal comparison engine, and interactive analytics dashboard.
+</td>
+<td width="50%" valign="top">
 
----
+### 🧬 CodeGenius AI
+**Multi-Agent Software Engineering Assistant**
+*Apr 2026*
+
+Multi-agent system for code generation, debugging, explanation and SRS generation. Built with Groq LLaMA 3, LangChain and FastAPI; deployed on AWS EC2 via Docker and CI/CD with a React frontend.
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+[🔗 View Repository](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📚 MCP-Server Documentation Retrieval
-> *RAG · LangChain · LlamaIndex · Source Citations*
+*Dec 2025*
 
-AI documentation assistant that fetches and summarizes Python library docs with precise answers and source references.
+AI-powered documentation assistant that fetches and summarizes Python library docs (LangChain, LlamaIndex, OpenAI) and returns precise, source-cited answers.
+
+![MCP](https://img.shields.io/badge/MCP-24c6dc?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square)
+
+[🔗 View Repository](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 RAG Chatbots & Agentic Workflows
+*Freelance & Internship work*
+
+Document-driven chatbots and multi-step agentic applications using vector databases (FAISS, Pinecone), fine-tuned LLMs via Hugging Face, and production deployments on AWS.
+
+![RAG](https://img.shields.io/badge/RAG-302b63?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 👁️ Dora AI — Real-Time Vision Agent
-> *OpenCV · Computer Vision · Live Webcam AI*
+## 💼 Experience
 
-Real-time computer vision agent that identifies and describes objects from a live webcam feed using AI.
+```mermaid
+timeline
+    title Career Journey
+    2022 : Started BSc Software Engineering at UET Taxila
+    2023 : Began freelancing on Fiverr as Full Stack AI Engineer
+    2025 : AI Engineer Intern at DevVibe
+         : Earned DataCamp certifications in LLMs and GenAI
+    2026 : Graduated with CGPA 3.57 / 4.00
+         : Shipped CodeGenius AI and Final Year Project
+```
 
-</div>
+| Role | Company | Period | Highlights |
+|------|---------|--------|------------|
+| 🤖 **AI Engineer Intern** | DevVibe, Multan | Jun 2025 – Aug 2025 | RAG apps, document chatbots, FAISS/Pinecone, AWS EC2/S3 + Docker, LLM fine-tuning, FastAPI pipelines |
+| 💻 **Full Stack AI Engineer (Freelance)** | Fiverr | Jan 2023 – Present | Agentic AI apps, RAG systems, ML/DL model deployment, FastAPI & Flask APIs for global clients |
+
+---
+
+## 🎓 Education & Certifications
+
+- 🏛️ **BSc. Software Engineering**, UET Taxila (Sep 2022 – Jun 2026), **CGPA 3.57 / 4.00**
+- 📜 **Large Language Models (LLMs) Concepts**, DataCamp (Sep 2025)
+- 📜 **Generative AI Concepts**, DataCamp (Oct 2025)
 
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Hanzlazafar1&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</div>
-
-## 🏅 Certifications
-
-- 🎓 **Large Language Models (LLMs) Concepts** — DataCamp *(Sep 2025)*
-- 🎓 **Generative AI Concepts** — DataCamp *(Oct 2025)*
-
----
-
-## 📈 Contribution Graph
 
 <div align="center">
 
-[![Hanzla's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hanzlazafar1&theme=tokyo-night&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=24c6dc&currStreakLabel=24c6dc" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies"/>
 
 </div>
 
 ---
 
+## 🔭 What I'm Working On
+
+- 🧠 Building more **multi-agent systems** with LangGraph
+- 🔌 Exploring **Model Context Protocol (MCP)** servers and tool-using agents
+- ☸️ Strengthening **Kubernetes** and **CI/CD** workflows for AI deployments
+- 📖 Deepening knowledge of **LLM fine-tuning** and evaluation
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to **AI/ML Engineer** roles, freelance projects and open-source collaboration around **LLMs, RAG, and Agentic AI**.
+
 <div align="center">
 
-### 💬 Let's Connect & Build Something Intelligent!
+<a href="mailto:hanzlazafar10@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Send%20an%20Email-24c6dc?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanzlazar07/)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hanzlazafar-eta.vercel.app/)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanzlazafar10@gmail.com)
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer"/>
+> 💡 *"Build AI that is not just smart, but useful, scalable and production-ready."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=140&section=footer" width="100%" alt="footer"/>
 
 </div>
