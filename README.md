@@ -1,37 +1,24 @@
 <div align="center">
 
-<!-- Hero Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=220&section=header&text=Hanzla%20Zafar&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20Specialist%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=19" width="100%" />
+<!-- Animated Name Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hanzla%20Zafar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20Specialist%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
 
-<!-- Dynamic Animated Typing Subtitle -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=Building+Autonomous+Agentic+Workflows+%F0%9F%A4%96;Enterprise+RAG+Systems+%26+LLM+Fine-Tuning+%F0%9F%A7%A0;Full-Stack+AI+%7C+FastAPI+%2B+React+%2B+Docker+%2B+AWS;Turning+Frontier+AI+Into+Production-Grade+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Production-Grade+AI+Systems+%F0%9F%A4%96;Agentic+AI+%7C+RAG+%7C+LLM+Fine-tuning;AWS+%7C+Docker+%7C+FastAPI+%7C+LangChain;Turning+Ideas+into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- Modern Action & Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/hanzlazar07/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://hanzlazafar-eta.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
-  </a>
-  <a href="mailto:hanzlazafar10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/maybe_hanzla/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanzlazar07/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hanzlazafar-eta.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanzlazafar10@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maybe_hanzla/)
 
-<!-- Profile Views & Live Status -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hanzlazafar1&color=00d9ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Hanzlazafar1?style=flat-square&color=8b5cf6&label=FOLLOWERS&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20COLLABORATIONS-00f2fe?style=flat-square" alt="Status" />
-</p>
+<br/>
+
+<!-- Profile Views & Followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=Hanzlazafar1&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/Hanzlazafar1?style=for-the-badge&color=00d9ff&labelColor=1a1a2e)
 
 </div>
 
