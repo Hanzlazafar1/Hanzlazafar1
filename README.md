@@ -11,10 +11,11 @@
 <br/><br/>
 
 <!-- ═══════════ SOCIAL BADGES ═══════════ -->
-<a href="https://www.linkedin.com/in/hanzlazar07/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1a33"/></a>
-<a href="https://hanzlazafar-eta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b1a33"/></a>
-<a href="mailto:hanzlazafar10@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-60A5FA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1a33"/></a>
-<a href="https://www.instagram.com/maybe_hanzla/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b1a33"/></a>
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanzlazar07/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hanzlazafar-eta.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanzlazafar10@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maybe_hanzla/)
 
 <br/><br/>
 
