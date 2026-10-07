@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════ HERO BANNER ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1D4ED8,50:0EA5E9,100:60A5FA&height=260&section=header&text=Hanzla%20Zafar&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20•%20Agentic%20AI%20Specialist%20•%20Full%20Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1D4ED8,50:0EA5E9,100:60A5FA&height=260&section=header&text=Hanzla%20Zafar&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer•%20Agentic%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
 
 <!-- ═══════════ TYPING ANIMATION ═══════════ -->
 <a href="https://hanzlazafar-eta.vercel.app/">
